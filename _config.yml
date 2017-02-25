@@ -3,19 +3,18 @@
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-highlighter: pygments
-
+highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Thoughts on Healthcare
+tagline: Just my opinion(s)
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Dr. Michael Couturie
+  github : mjcouturie
+  WeChat: mcouturie
+  twitter : MikeCouturie
+  LinkedIn: https://cn.linkedin.com/in/drmikecouturie
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
