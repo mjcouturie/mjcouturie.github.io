@@ -6,3 +6,8 @@ category:
 tags: []
 ---
 {% include JB/setup %}
+<table>
+<th>
+<td>Test</td>
+</th>
+</table>
