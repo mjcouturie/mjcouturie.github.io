@@ -7,6 +7,8 @@ description: ""
 <div id="contents">
   <span class="c6"><strong>医生没有衣服</strong></span>
   <p class="c5"><span class="c6"><strong>关于“全面”健康检查难以忽视的真相</strong></span></p>
+  <p class="c5"><span class="c6"><strong>作者：麦子轩医生（Dr. Michael Couturie)</strong></span></p>
+  <p class="c5"><span class="c6"><strong>最初以英文出版:<a href="http://www.amchamchina.org/news/the-doctor-has-no-clothes"> The Doctor Has No Clothes</a></strong></span></p>
   <p class="c1"><span class="c3"></span></p>
   <p class="c5"><span class="c3">我的办公室和儿科医生办公室仅一墙之隔，因而从左边传来哭闹声是司空见惯的事。但这一次，哭声是从妇产科医生办公室传来的。我以为流产了，但五分钟后，产科医生将一份 13 页的报告撂在我的办公桌上。我意识到这是我执业过程中遇到的另一种罕见病症——健康检查恐慌。</span></p>
   <p class="c1"><span class="c3"></span></p>
