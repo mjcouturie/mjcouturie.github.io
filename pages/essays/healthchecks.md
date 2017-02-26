@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Healthchecks"
+title: "健康检查"
 description: ""
 ---
 {% include JB/setup %}
